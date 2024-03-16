@@ -1,0 +1,15 @@
+.btnLoadMore {
+  display: block;
+  margin: 20px auto 8px;
+  padding: 15px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  background-color:gray;
+  cursor: pointer;
+}
+
+.btnLoadMore:hover {
+  background-color:gray;
+}

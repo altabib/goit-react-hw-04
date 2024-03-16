@@ -1,0 +1,8 @@
+.appStyle{
+    box-sizing: border-box;
+    max-width: 1440px;
+    padding-left: auto;
+    padding-right: auto;
+    justify-content: center;
+    text-align: center;
+}
