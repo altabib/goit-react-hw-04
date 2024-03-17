@@ -54,7 +54,7 @@ import toast, { Toaster } from "react-hot-toast";
       }
 
       fetchData();
-    }, [query, page]);
+    }, [query , page]);
 
     const searchPhoto = (value) => {
       setQuery(value);

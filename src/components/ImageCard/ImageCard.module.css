@@ -2,12 +2,18 @@
   width: 360px;
   height: 200px;
   overflow: hidden;
+  display: flex;
+    align-items: center;
+    
+    cursor: pointer;
+      object-fit: cover;
 }
 
 .imgBox:hover {
   transform: scale(1.09);
 }
 
-.imgItem {
+/* .imgItem {
   object-fit: cover;
-}
+  
+} */
